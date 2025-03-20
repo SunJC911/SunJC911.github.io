@@ -1,9 +1,10 @@
 ---
 title: Writing a New Post
-author: cotes
-date: 2019-08-08 14:10:00 +0800
+date: 2019-08-08
 categories: [Blogging, Tutorial]
 tags: [writing]
+
+author: cotes
 render_with_liquid: false
 ---
 
