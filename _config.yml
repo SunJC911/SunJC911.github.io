@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Wukong Sun # the main title
 
-tagline: MVP # it will display as the subtitle
+tagline: not MVP # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   GOAT.
