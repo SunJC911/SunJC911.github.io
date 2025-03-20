@@ -1,10 +1,11 @@
 ---
 title: Writing a New Post
 date: 2019-08-08
-categories: [Blogging, Tutorial]
-tags: [writing]
+# date: 2019-08-08 14:10:00 +0800
+categories: [只能两级, 没法三级]
+tags: [可以多个, 也比也比wo]
 
-author: cotes
+author: [sjc]
 render_with_liquid: false
 ---
 
