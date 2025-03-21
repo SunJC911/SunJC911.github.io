@@ -29,7 +29,6 @@ _Image Caption_
 
 {% include embed/bilibili.html id='BV1FmQfYqEVW' %}  
 
-{% include embed/youtube.html id='Balreaj8Yqs' %}  
 
 > Example line for prompt.
 {: .prompt-info }  

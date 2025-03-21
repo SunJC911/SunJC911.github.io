@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: 09110911 # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,8 +75,8 @@ analytics:
 
 # Page views settings
 pageviews:
-  # provider: 'goatcounter'
-  provider: 
+  provider: "goatcounter"
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
@@ -117,7 +117,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: SunJC911/SunJC911.github.io
-    issue_term: pathname  # pathname | url | title | og:title
+    issue_term: pathname # pathname | url | title | og:title
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
