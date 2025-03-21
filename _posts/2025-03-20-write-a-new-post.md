@@ -1,5 +1,5 @@
 ---
-title: Learning how to write basic Chripy syntax.
+title: Learning how to write basic Chripy syntax and Markdown syntax.
 date: 2025-03-20 19:54:00 +0800
 # date: 2019-08-08 14:10:00 +0800
 categories: [Writing, Chripy]
@@ -14,6 +14,8 @@ mermaid: true  # for mermaid
 ---
 
 Learning how to write basic Chripy syntax and Markdown syntax.
+
+More information about Chripy syntax can be found [here](https://chirpy.cotes.page/posts/write-a-new-post/) and [here](https://chirpy.cotes.page/posts/text-and-typography/).
 
 ![img-description](/assets/img/avatar.jpg){: w="200" h="200" }
 _Image Caption_
