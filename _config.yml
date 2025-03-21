@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Wukong Sun # the main title
+title: 悟 空 # the main title
 
-tagline: wwwwwww is not MVP # it will display as the subtitle
+tagline: JC's Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   GOAT.
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://SunJC911.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: SunJC911 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: sjc14460719 # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -61,7 +61,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: 09110911 # fill in your GoatCounter ID
+    id: #09110911 # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: "goatcounter"
+  provider: #"goatcounter"
 
 # Prefer color scheme setting.
 #

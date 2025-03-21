@@ -1,9 +1,9 @@
 ---
-title: Learning how to write basic Markdown syntax.
+title: Learning how to write basic Chripy syntax.
 date: 2025-03-20 19:54:00 +0800
 # date: 2019-08-08 14:10:00 +0800
-categories: [Writing, Markdown]
-tags: [Writing, Markdown]
+categories: [Writing, Chripy]
+tags: [Writing, Chripy, Markdown]
 
 author: [sjc]
 
@@ -13,8 +13,7 @@ render_with_liquid: true  # for video
 mermaid: true  # for mermaid
 ---
 
-大家好不好别好一起死  
-This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
+Learning how to write basic Chripy syntax and Markdown syntax.
 
 ![img-description](/assets/img/avatar.jpg){: w="200" h="200" }
 _Image Caption_
