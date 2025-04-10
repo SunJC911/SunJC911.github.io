@@ -45,7 +45,7 @@ This is a plaintext code snippet.
 
 ```yaml
 key: value
-```  
+```
 
 ```shell
 echo 'No more line numbers!'
