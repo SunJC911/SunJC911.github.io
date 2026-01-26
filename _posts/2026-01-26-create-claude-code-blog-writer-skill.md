@@ -1,6 +1,6 @@
 ---
 title: 用 Claude Code 创建 blog-writer Skill：让 AI 自动帮你写博客
-date: 2026-01-26 22:30:00 +0800
+date: 2026-01-26 13:30:00 +0800
 categories: [Claude Code, Skill]
 tags: [Claude Code, Skill, 自动化, 博客, Jekyll]
 author: sjc
